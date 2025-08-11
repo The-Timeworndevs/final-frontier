@@ -1,0 +1,1 @@
+schedule function final_frontier:tick 1s replace
