@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:overworld",
+  "type": "final_frontier:moon",
   "generator": {
     "type": "minecraft:noise",
     "settings":"final_frontier:moon",
