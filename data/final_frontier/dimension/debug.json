@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "biomes": [
+        "minecraft:badlands",
+        "minecraft:birch_forest",
+        "minecraft:dark_forest",
+        "final_frontier:lunar_maria"
+      ],
+      "type": "minecraft:checkerboard"
+    },
+    "settings": "minecraft:overworld"
+  }
+}
