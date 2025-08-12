@@ -7,7 +7,8 @@
         "minecraft:badlands",
         "minecraft:birch_forest",
         "minecraft:dark_forest",
-        "final_frontier:lunar_maria"
+        "final_frontier:lunar_maria",
+        "final_frontier:lunar_highlands"
       ],
       "type": "minecraft:checkerboard"
     },
