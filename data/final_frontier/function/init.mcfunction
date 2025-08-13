@@ -1,1 +1,3 @@
-schedule function final_frontier:tick 1s replace
+scoreboard objectives add dim dummy
+
+tellraw @a {"text":"Loaded pack successfully"}

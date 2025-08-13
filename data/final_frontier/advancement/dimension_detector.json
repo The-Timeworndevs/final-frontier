@@ -1,0 +1,10 @@
+{
+	"criteria": {
+		"dim_changed": {
+			"trigger": "minecraft:changed_dimension"
+		}
+	},
+	"rewards": {
+		"function": "final_frontier:dimension_detector/dimension_detector"
+	}
+}
