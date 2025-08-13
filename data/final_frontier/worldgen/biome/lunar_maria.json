@@ -36,7 +36,9 @@
       "final_frontier:plentiful_iron",
       "minecraft:ore_gold_lower",
       "minecraft:ore_gold",
-      "final_frontier:plentiful_gold"
+      "final_frontier:plentiful_gold",
+      "minecraft:ore_copper",
+      "minecraft:ore_copper_large"
     ],
     [
     ],
