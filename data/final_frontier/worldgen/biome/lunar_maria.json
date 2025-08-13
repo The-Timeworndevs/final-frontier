@@ -30,7 +30,13 @@
 
     ],
     [
-
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "final_frontier:plentiful_iron",
+      "minecraft:ore_gold_lower",
+      "minecraft:ore_gold",
+      "final_frontier:plentiful_gold"
     ],
     [
     ],
