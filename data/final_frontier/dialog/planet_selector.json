@@ -7,14 +7,14 @@
             "label": "The Overworld",
             "action": {
                 "type": "run_command",
-                "command": "trigger dim_trigger set 0"
+                "command": "trigger dim_trigger set 1"
             }
         },
         {
             "label": "The Moon",
             "action": {
                 "type": "run_command",
-                "command": "trigger dim_trigger set 1"
+                "command": "trigger dim_trigger set 2"
             }
         }
     ] 
