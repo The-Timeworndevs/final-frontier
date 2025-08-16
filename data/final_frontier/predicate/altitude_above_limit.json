@@ -1,5 +1,10 @@
 {
   "condition": "minecraft:location_check",
-  "offsetY": 500,
-  "predicate": {}
+  "predicate": {
+    "position": {
+      "y": {
+        "min": 500
+      }
+    }
+  }
 }
