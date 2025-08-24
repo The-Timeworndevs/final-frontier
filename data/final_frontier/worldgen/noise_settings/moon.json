@@ -21,9 +21,9 @@
       "xz_scale": 1,
       "y_scale": 0.5
     },
-    "continents": "final_frontier:luna_noise/continents",
+    "continents": "minecraft:overworld/continents",
     "depth": "minecraft:overworld/depth",
-    "erosion": "final_frontier:luna_noise/erosion",
+    "erosion": "minecraft:overworld/erosion",
     "final_density": {
       "type": "minecraft:min",
       "argument1": {
@@ -241,7 +241,7 @@
       "xz_scale": 1,
       "y_scale": 1
     },
-    "ridges": "final_frontier:luna_noise/ridges",
+    "ridges": "minecraft:overworld/ridges",
     "temperature": {
       "type": "minecraft:shifted_noise",
       "noise": "minecraft:temperature",
