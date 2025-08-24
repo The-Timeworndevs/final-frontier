@@ -24,7 +24,7 @@
     },
     "argument2": {
       "type": "minecraft:add",
-      "argument1": "minecraft:overworld/caves/spaghetti_roughness_function",
+      "argument1": "final_frontier:moon/caves/spaghetti_roughness_function",
       "argument2": {
         "type": "minecraft:clamp",
         "input": {
