@@ -4,11 +4,14 @@
   "pattern": [
     "ggg",
     "g g",
-    "ggg"
+    "ccc"
   ],
   "key": {
     "g": [
       "minecraft:glass_pane"
+    ],
+    "c": [
+      "minecraft:copper_ingot"
     ]
   },
   "result": {
