@@ -1,4 +1,5 @@
 advancement revoke @s only final_frontier:dimension_detector
+advancement revoke @s only final_frontier:dimension_detector_death
 
 execute store result score @s dim run data get entity @s Dimension
 
