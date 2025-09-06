@@ -1,7 +1,7 @@
 {
   "aquifers_enabled": false,
   "default_block": {
-    "Name": "minecraft:deepslate"
+    "Name": "minecraft:smooth_basalt"
   },
   "default_fluid": {
     "Name": "minecraft:air"
@@ -489,7 +489,7 @@
         "then_run": {
           "type": "minecraft:block",
           "result_state": {
-            "Name": "minecraft:deepslate",
+            "Name": "minecraft:blackstone",
             "Properties": {
               "axis": "y"
             }
